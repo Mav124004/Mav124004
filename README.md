@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MaV124004/MaV124004Mavik/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MaV124004/MaV124004/output/snake.svg" alt="Snake animation" />
 
 ###
 
