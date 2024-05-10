@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/605838586549633041/fc27a9a497eb70fac2b97b7fda2470ad.webp"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/avatars/605838586549633041/fc27a9a497eb70fac2b97b7fda2470ad.webp" style="border-radius: 50% !important; border: 5px solid #000;" />
 
 ###
 
