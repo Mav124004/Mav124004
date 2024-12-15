@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Szymon and I'm from Poland</h2>
+<h2 align="left">Hi 👋! My nickname is Mavik and I'm from Poland</h2>
 
 ## Languages, Frameworks & Services:
 <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/programming%20languages/java.svg"></code>
